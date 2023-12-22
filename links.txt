@@ -1,2 +1,0 @@
-color palettes:
-https://seaborn.pydata.org/tutorial/color_palettes.html
